@@ -1,0 +1,9 @@
+{
+    "8317.6883.123": {
+        "name": "endre",
+        "hashed_password": "72ec2b475c40fb9e1898fb6ba8fdb3d2ccaa045314fa34a9eaa35f15ac1f5797",
+        "salt": "11c4acf92d3899734556d8d00747f817",
+        "balance": 200.0,
+        "transactions": []
+    }
+}
